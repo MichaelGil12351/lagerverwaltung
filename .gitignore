@@ -1,0 +1,12 @@
+.vs/ 
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+
+# Node / frontend
+node_modules/
+dist/
+build/".vs/"         # Si a£n no lo tienes
